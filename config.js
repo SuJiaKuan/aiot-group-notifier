@@ -11,5 +11,9 @@ module.exports = {
   event: {
     date: 'the event date',
     formLink: 'link to the event registration form ',
-  }
+  },
+  schedule: {
+    endTime: '2099-12-31 23:59:59',
+    cronjob: '0 22 * * *',
+  },
 }
