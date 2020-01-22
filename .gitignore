@@ -127,6 +127,5 @@ dist
 .vscode-test
 
 # Project files that should not be tracked.
-config.js
 credentials.json
 token.json
