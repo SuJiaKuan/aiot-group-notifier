@@ -1,0 +1,15 @@
+{
+  "name": "aiot-group-notifier",
+  "version": "1.0.0",
+  "description": "Event notifier for AIoT樂活共生應用團隊",
+  "main": "server.js",
+  "author": "feabries su",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.1",
+    "querystring": "^0.2.0"
+  }
+}
