@@ -28,7 +28,7 @@ yarn install
 
 * Enable the Google Sheets API via [Node.js Quickstart](https://developers.google.com/sheets/api/quickstart/nodejs) and save the credentials as `credentials.json` in the project root directory
 
-* Run Sheets token generation script
+* Run Sheets token generation script and follows its instructions to complete
 ```bash
 yarn gen-sheets-token
 ```
